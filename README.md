@@ -29,7 +29,8 @@ Layout of files and projects, plus a date:
 
 ```
 CptS-121_FA26_LabSolutions/
- └ LabSolutions     | Each lab as a project in this main solution
+ ├ Lab01Task1	| 09/03/2026: Hello World!
+ └ Lab01Task2	| 09/03/2026: Fun with numbers!
 ```
 
 <!-- Special characters: └ ├ -->
