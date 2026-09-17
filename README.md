@@ -30,7 +30,8 @@ Layout of files and projects, plus a date:
 ```
 CptS-121_FA26_LabSolutions/
  ├ Lab01Task1	| 09/03/2026: Hello World!
- └ Lab01Task2	| 09/03/2026: Fun with numbers!
+ ├ Lab01Task2	| 09/03/2026: Fun with numbers!
+ └ Lab02		| 09/10/2026: Velocity, Perpendicular Bisector, and BMI Calculators
 ```
 
 <!-- Special characters: └ ├ -->
